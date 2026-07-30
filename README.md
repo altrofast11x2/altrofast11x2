@@ -1,3 +1,4 @@
 ## I Make What i Love
-learning: html, css, scss, js, php, ai, Kalilinux <br>
+stack: html, css, scss, js, php, ai, Kalilinux, termux <br>
 contact: kazinobel9807gmail.com
+discord: nobel7422
