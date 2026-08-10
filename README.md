@@ -1,4 +1,4 @@
-#👋 Hi There It's Cozy I Make What i Love!!
+##👋 Hi There It's Cozy I Make What i Love!!
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/nobel7422) 
