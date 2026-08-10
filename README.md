@@ -1,3 +1,4 @@
+# 👋 Hi There It's Cozy I Love What i Make!!
 # 💫About Me :
 - 🔭 I’m currently working on studying hard for the Skills Competition 🏆
 - 👯 I’m looking to collaborate on Web & App service development projects 🌐
