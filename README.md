@@ -19,3 +19,30 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=altrofast11x2&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=altrofast11x2&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+                                                  
+                                                  
+                                                  
+                                                  
+[38;5;191m                       j@@g                       
+                      @@@@@@                      
+                    ,@@@@Q@@@,                    
+                   _@@@D  t@@@L                   
+                  /@@@F    \@@@p                  
+                 g@@@/      '@@@@                 
+                @@@@          @@@@,               
+              ,@@@@            0@@@_              
+             /@@@P     [38;5;99m____     [38;5;191mT@@@L             
+            o@@@F     [38;5;99m/@@@@g     [38;5;191m'@@@g            
+           @@@@'      [38;5;99m'@@@@"      [38;5;191m`@@@@           
+         ,@@@@                      @@@@,         
+        ,@@@D                        f@@@\        
+         0BF                          "BB         
+                                                  
+                                                  
+                                                  
+                                                  
+[0m
