@@ -17,56 +17,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=altrofast11x2&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=altrofast11x2&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=altrofast11x2&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-    <meta name="theme-color" content="#0C0C0C">
-    <meta name="date" content="2026-08-10T09:23:09.408Z">
-    <link href="https://fonts.cdnfonts.com/css/cascadia-code" rel="stylesheet">
-    <title>altro-mark-apex - Rect</title>   
-    <style>
-      * {
-        font-variant-ligatures: none;
-        font-feature-settings: 'liga' 0, 'clig' 0;
-      }
-      html, body {
-        background: #0C0C0C;
-        color: #CCCCCC;
-        text-align: center;
-        margin: 19px 0;
-      }
-      pre {
-        font-family: 'Cascadia Code', sans-serif;
-        font-size: 12pt;
-        line-height: 1.2;
-        margin: 10px 0;
-      }      
-    </style>    
-</head>
-<body><pre>                                                
-                                                
-                                                
-<span style="color: #D7FF5F;">                       __                       
-                      @@@@                      
-                    ,@@@@@@,                    
-                   ,@@@PT@@@,                   
-                  _@@@F  \@@@L                  
-                 /@@@/    &apos;@@@g                 
-                g@@@        @@@@                
-               @@@@          Q@@@               
-             ,@@@D            %@@@,             
-            _@@@F     </span><span style="color: #875FFF;">_@@a     </span><span style="color: #D7FF5F;">\@@@L            
-           /@@@/     </span><span style="color: #875FFF;">{@@@@N     </span><span style="color: #D7FF5F;">&apos;@@@h           
-          g@@@&apos;       </span><span style="color: #875FFF;">&lt;@@P       </span><span style="color: #D7FF5F;">`@@@g          
-         @@@@                      @@@@         
-        @@@@                        0@@@        
-         &quot;&apos;                          &apos;&quot;         
-                                                
-                                                
-                                                
-</span></pre></body>
-</html>
----
+
 [![](https://visitcount.itsvg.in/api?id=altrofast11x2&icon=0&color=0)](https://visitcount.itsvg.in)
