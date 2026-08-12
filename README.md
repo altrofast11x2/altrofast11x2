@@ -1,4 +1,3 @@
-[altro-mark-apex - Rect.html](https://github.com/user-attachments/files/30893866/altro-mark-apex.-.Rect.html)
 # 👋 Hi There, It's Cozy I Love What i Make!!
 # 💫About Me :
 - 🔭 I’m currently working on studying hard for the Skills Competition 🏆
