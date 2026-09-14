@@ -10,7 +10,6 @@
 * 🚀 Currently learning **Laravel** to expand my backend skills
 * 💡 Interested in **PHP, JavaScript, SQL, and Web Development**
 * 🎮 Developing **web-based RPG Maker games** as a hobby
-* 🔒 Exploring **Web Security & Kali Linux** for learning
 
 ---
 
