@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cozy!
 
-> **I Love What I Make!!**
+> ** I Love What I Make!! **
 
 ## 💫 About Me
 
