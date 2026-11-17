@@ -6,10 +6,8 @@
 
 * 🏆 Currently studying hard for **Skills Competition**
 * 🌐 Interested in **Web & App Service Development**
-* 🎨 Looking for collaboration on **Pixel Art & Dot Graphics**
-* 🚀 Currently learning **Laravel** to expand my backend skills
-* 💡 Interested in **PHP, JavaScript, SQL, and Web Development**
-* 🎮 Developing **web-based RPG Maker games** as a hobby
+* 🚀 Currently learning **PHP & AI** to expand my backend skills
+* 🎮 Developing **RPG Maker games And some Web Services** as a hobby
 
 ---
 
